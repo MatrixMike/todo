@@ -9,7 +9,7 @@ Greenfoot Error - Angular Motion
 
 Binoculars
 TAX return
-Neil Frankston
+Neil Frankston - done
 
 Maurice Blackburn
 DSP
@@ -23,4 +23,6 @@ SEEK - CV
 GLobird bill < 21st September 2016
 
 padlock, gloves, earplugs (Steam)
+
+
 
